@@ -10,9 +10,9 @@ Thumbs.db
 
 /.env
 
-!.gitkeep
-
 /certs/*
 /conf.d/*
+
+!.gitkeep
 
 *.override.yml
