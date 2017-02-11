@@ -11,3 +11,8 @@ Thumbs.db
 /.env
 
 !.gitkeep
+
+/certs/*
+/conf.d/*
+
+*.override.yml
